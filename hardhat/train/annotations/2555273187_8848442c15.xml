@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>2555273187_8848442c15.jpg</filename>
+	<path>/home/usckiki/Documents/git/mask-query-aide/data/hardhat/train/images/2555273187_8848442c15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person hardhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>7</ymin>
+			<xmax>416</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

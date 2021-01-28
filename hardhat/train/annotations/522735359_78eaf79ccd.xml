@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>522735359_78eaf79ccd.jpg</filename>
+	<path>/home/usckiki/Documents/git/mask-query-aide/data/hardhat/train/images/522735359_78eaf79ccd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
